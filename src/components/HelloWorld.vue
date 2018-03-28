@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <el-button type="warning">警告按钮</el-button>
     <h2>Essential Links</h2>
     <ul>
       <li>
