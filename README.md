@@ -1,6 +1,6 @@
 # front-end
 
-> xiaofu's personal website
+> Xiaofu's personal website
 
 ## Build Setup
 
