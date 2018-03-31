@@ -112,7 +112,7 @@ export default {
   animation: aniTwo 10s infinite;
 }
 .artical-button:hover .artical-button-image {
-  opacity: 0.6;
+  opacity: 0.65;
 }
 .artical-button-image {
   position: relative;
@@ -120,7 +120,7 @@ export default {
   top: 0;
   width: 16em;
   height: 16em;
-  opacity: 0.3;
+  opacity: 0.45;
 }
 .artical-button-text {
   position: absolute;
@@ -129,7 +129,8 @@ export default {
   width: 5em;
   z-index: 2;
   font-size: 3em;
-  color: #2f4f4f;
+  color: #696969;
+  /*color: #fdf5e6;*/
   /*font-weight: bold;*/
 }
 .about-button {
