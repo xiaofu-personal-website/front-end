@@ -8,7 +8,7 @@
     <!-- <floating-button class="artical-button hidden-sm-and-up" content="文章" routeName="Artical" left="40%" top="20%" width="7em" height="7em" fontSize="1.2em"></floating-button> -->
     <!-- <floating-button class="about-button hidden-xs-only" content="关于作者" routeName="About" left="7%" top="58%" width="7em" height="7em" fontSize="1.2em"></floating-button> -->
     <!-- <floating-button class="about-button hidden-sm-and-up" content="关于作者" routeName="About" left="15%" top="63%"></floating-button> -->
-    <div class="login-button">
+    <div class="login-button" @click="goTo('LogIn')">
       <span class="login-button-text">作者登陆</span>
       <img class="login-button-image" src="@/../static/home_button.jpg">
     </div>
